@@ -22,20 +22,6 @@ There are 2 specific related tasks:
 - [Chickenpox Cases in Hungary Time Series](https://graphmining.ai/temporal_datasets/hungary_chickenpox.csv)
 
 
-**Properties:**
-
-- **Directed:** No.
-- **Node features:** Yes.
-- **Temporal:** Yes.
-
-
-|   | **Hungarian Counties**  |
-|---|---|
-| **Nodes** |20   |
-| **Edges** |61 |
-| **Density** |  0.3211 |
-| **Transitvity** | 0.4134|
-
 **Citing:**
 ```bibtex
 @misc{rozemberczki2021chickenpox,
@@ -47,6 +33,12 @@ There are 2 specific related tasks:
       primaryClass={cs.LG}
 }
 ```
-# Loading the data
+### Characteristics of the dataset
 
-# Making Plots
+The data consists of county level time series and a spatial graph which describes the spatial connectivity of the
+counties. The county level time series describe the weekly number of chickenpox cases reported by general practitioners in Hungary.
+
+The data collection covered the weeks between the January of 2005 and January of 2015 and the resulting time series has more than 500 entries for all of the counties without any missingness.
+
+
+### Making Plots
