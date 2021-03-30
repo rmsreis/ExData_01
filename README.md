@@ -1,6 +1,6 @@
 # Introduction
 
-This repository uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. 
+This repository uses data from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/), a popular repository for machine learning datasets. 
 In particular, we will be using the "Hungarian Chickenpox Cases Data Set" which is available [here](http://archive.ics.uci.edu/ml/machine-learning-databases/00580/):
 
 **Data Set Information:**
