@@ -40,5 +40,3 @@ counties. The county level time series describe the weekly number of chickenpox 
 
 The data collection covered the weeks between the January of 2005 and January of 2015 and the resulting time series has more than 500 entries for all of the counties without any missingness.
 
-
-### Making Plots
